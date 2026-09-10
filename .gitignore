@@ -1,0 +1,14 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore compiler debug symbols
+*.pdb
+*.dSYM/
+
+# VS Code temporary files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
