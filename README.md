@@ -24,8 +24,8 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 - [x] **02.** In-depth Hello World & Compilation
 - [x] **03.** Variables and Constants
 - [x] **04.** Data Types and Coding Challenges
-- [ ] **05.** Operators and Challenges
-- [ ] **06.** Conditionals and Challenges
+- [x] **05.** Operators and Challenges
+- [x] **06.** Conditionals and Challenges
 - [ ] **07.** Loops in C++
 - [ ] **08.** Functions in C++
 
