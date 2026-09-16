@@ -27,7 +27,7 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 - [x] **05.** Operators and Challenges
 - [x] **06.** Conditionals and Challenges
 - [x] **07.** Loops in C++
-- [ ] **08.** Functions in C++
+- [x] **08.** Functions in C++
 
 ### 🟡 Section 2: OOP & Memory Mechanics
 - [ ] **09.** Object-Oriented Programming (OOP) Introduction
