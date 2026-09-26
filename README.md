@@ -31,7 +31,7 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 
 ### 🟡 Section 2: OOP & Memory Mechanics
 - [ ] **09.** Object-Oriented Programming (OOP) Introduction
-- [ ] **10.** Arrays, Dynamic Memory, and Pointers
+- [x] **10.** Arrays, Dynamic Memory, and Pointers
 - [ ] **11.** Constructors, Destructors, and Copy Constructor
 - [ ] **12.** `friend` Keyword in C++
 - [ ] **13.** Getters, Setters, and Delegating Constructors
