@@ -33,8 +33,8 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 - [x] **09.** Object-Oriented Programming (OOP) Introduction
 - [x] **10.** Arrays, Dynamic Memory, and Pointers
 - [x] **11.** Constructors, Destructors, and Copy Constructor
-- [ ] **12.** `friend` Keyword in C++
-- [ ] **13.** Getters, Setters, and Delegating Constructors
+- [x] **12.** `friend` Keyword in C++
+- [x] **13.** Getters, Setters, and Delegating Constructors
 - [ ] **14.** Encapsulation, Abstract Classes, and Virtual Functions
 - [ ] **15.** Inheritance and the `final` Keyword
 
