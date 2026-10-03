@@ -21,6 +21,10 @@ class Student_detail{
             cout<< "Student's name: "<< name <<endl;
             cout<< "Student's roll number: " << roll_num << endl;
         }
+
+        string getName(){
+            return name;
+        }
 };
 
 bool seating_order(const Student_detail &student1, const Student_detail &student2){
@@ -33,9 +37,9 @@ int main(){
     Student_detail studentTwo("Prince", 422);
 
     if(seating_order(studentOne, studentTwo)){
-        cout<< "Student One sits on the first bench" << endl; 
+        cout<< studentOne.getName() << " sits on the first bench" << endl; 
     }else{
-        cout<< "Student Two sits on the first bench" << endl;
+        cout<< studentTwo.getName() << " sits on the first bench" << endl;
     }
 
     return 0;
