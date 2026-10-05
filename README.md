@@ -39,15 +39,9 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 - [x] **15.** Inheritance and the `final` Keyword
 
 ### 🔴 Section 3: Standard Template Library (STL) Projects
-- [ ] **16.** Mini-Project: Building an Online Store with C++ STL
+- [x] **16.** Mini-Project: Building an Online Store with C++ STL
 - [ ] **17.** Mini-Project: Building Employee Management with C++ STL
 - [ ] **18.** Series Wrap-up & Next Steps
-
-### 🟣 Section 4: Transition to DSA
-- [ ] Arrays, Strings & Two Pointers
-- [ ] Recursion & Backtracking
-- [ ] Linked Lists & Custom Nodes
-- [ ] Stacks, Queues & Priority Queues
 
 ---
 
