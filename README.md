@@ -36,7 +36,7 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 - [x] **12.** `friend` Keyword in C++
 - [x] **13.** Getters, Setters, and Delegating Constructors
 - [x] **14.** Encapsulation, Abstract Classes, and Virtual Functions
-- [ ] **15.** Inheritance and the `final` Keyword
+- [x] **15.** Inheritance and the `final` Keyword
 
 ### 🔴 Section 3: Standard Template Library (STL) Projects
 - [ ] **16.** Mini-Project: Building an Online Store with C++ STL
