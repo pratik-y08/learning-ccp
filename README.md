@@ -40,8 +40,8 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 
 ### 🔴 Section 3: Standard Template Library (STL) Projects
 - [x] **16.** Mini-Project: Building an Online Store with C++ STL
-- [ ] **17.** Mini-Project: Building Employee Management with C++ STL
-- [ ] **18.** Series Wrap-up & Next Steps
+- [x] **17.** Mini-Project: Building Employee Management with C++ STL
+- [x] **18.** Series Wrap-up & Next Steps
 
 ---
 
