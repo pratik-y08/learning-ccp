@@ -4,19 +4,6 @@ A complete practice log and roadmap following the **Chai aur C++** series by Hit
 
 ---
 
-## 📂 Repository Structure
-
-- `Basics/` — Syntax drills, variables, casting, strings, and core mechanics
-- `Assignment/` — Practice assignments and standalone problem sets
-- `01-basics/` — Foundational challenges (Data types, operators, conditionals)
-- `02-control-flow-functions/` — Loops and functional programming exercises
-- `03-pointers-and-memory/` — Pointers, arrays, and dynamic memory allocation
-- `04-oop/` — Object-oriented programming drills (Constructors, friends, inheritance)
-- `05-stl-projects/` — Real-world mini-projects using the Standard Template Library
-- `06-dsa-transition/` — Problem-solving implementations (Arrays, recursion, linked lists)
-
----
-
 ## 🗺️ Playlist Checklist & Progress
 
 ### 🟢 Section 1: C++ Foundations & Syntax
